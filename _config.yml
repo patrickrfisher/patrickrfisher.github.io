@@ -1,6 +1,6 @@
 title: Patrick Fisher
 logo: /assets/img/PatrickFisher1.jpg
 description: Welcome to my first personnel website.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
