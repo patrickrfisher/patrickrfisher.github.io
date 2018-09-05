@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Welcome to random facts about me page
 
-_yay_
+_NOTHING YET_
 
 [back](./)
