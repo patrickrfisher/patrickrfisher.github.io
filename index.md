@@ -1,9 +1,6 @@
 ---
 layout: default
 ---
-```html
-<a href="https://www.linkedin.com/in/patrick-fisher-916623b0/">Linked In</a>
-```
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
